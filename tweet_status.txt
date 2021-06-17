@@ -1,0 +1,198 @@
+{
+ "created_at": "Wed Jun 16 17:45:53 +0000 2021",
+ "id": 1405220095060807681,
+ "id_str": "1405220095060807681",
+ "text": "RT @rachelvscott: Our day started at 6am, with a Covid test ourside a hotel where Kremlin staff are staying.\n\nWe spotted protestors hanging\u2026",
+ "truncated": false,
+ "entities": {
+  "hashtags": [],
+  "symbols": [],
+  "user_mentions": [
+   {
+    "screen_name": "rachelvscott",
+    "name": "Rachel Scott",
+    "id": 88856085,
+    "id_str": "88856085",
+    "indices": [
+     3,
+     16
+    ]
+   }
+  ],
+  "urls": []
+ },
+ "metadata": {
+  "iso_language_code": "en",
+  "result_type": "recent"
+ },
+ "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+ "in_reply_to_status_id": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_user_id": null,
+ "in_reply_to_user_id_str": null,
+ "in_reply_to_screen_name": null,
+ "user": {
+  "id": 1284530148033859586,
+  "id_str": "1284530148033859586",
+  "name": "Putin Is Not My Papi",
+  "screen_name": "putin_papi",
+  "location": "",
+  "description": "",
+  "url": null,
+  "entities": {
+   "description": {
+    "urls": []
+   }
+  },
+  "protected": false,
+  "followers_count": 42,
+  "friends_count": 386,
+  "listed_count": 0,
+  "created_at": "Sat Jul 18 16:47:14 +0000 2020",
+  "favourites_count": 62166,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 36272,
+  "lang": null,
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F5F8FA",
+  "profile_background_image_url": null,
+  "profile_background_image_url_https": null,
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1284576428797952001/BgQS1w4g_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284576428797952001/BgQS1w4g_normal.jpg",
+  "profile_link_color": "1DA1F2",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": true,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "withheld_in_countries": []
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "retweeted_status": {
+  "created_at": "Wed Jun 16 12:31:52 +0000 2021",
+  "id": 1405141073010253827,
+  "id_str": "1405141073010253827",
+  "text": "Our day started at 6am, with a Covid test ourside a hotel where Kremlin staff are staying.\n\nWe spotted protestors h\u2026 https://t.co/imqrbnq4iv",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/imqrbnq4iv",
+     "expanded_url": "https://twitter.com/i/web/status/1405141073010253827",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "metadata": {
+   "iso_language_code": "en",
+   "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1405140363078209542,
+  "in_reply_to_status_id_str": "1405140363078209542",
+  "in_reply_to_user_id": 88856085,
+  "in_reply_to_user_id_str": "88856085",
+  "in_reply_to_screen_name": "rachelvscott",
+  "user": {
+   "id": 88856085,
+   "id_str": "88856085",
+   "name": "Rachel Scott",
+   "screen_name": "rachelvscott",
+   "location": "",
+   "description": "Congressional Correspondent for @ABC \u2709\ufe0fDM\u2019s open. Academics courtesy of @USCAnnenberg.",
+   "url": "https://t.co/7mnR2AtpOn",
+   "entities": {
+    "url": {
+     "urls": [
+      {
+       "url": "https://t.co/7mnR2AtpOn",
+       "expanded_url": "http://abcnews.com",
+       "display_url": "abcnews.com",
+       "indices": [
+        0,
+        23
+       ]
+      }
+     ]
+    },
+    "description": {
+     "urls": []
+    }
+   },
+   "protected": false,
+   "followers_count": 48027,
+   "friends_count": 1638,
+   "listed_count": 589,
+   "created_at": "Tue Nov 10 05:04:01 +0000 2009",
+   "favourites_count": 1893,
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "verified": true,
+   "statuses_count": 318,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "is_translation_enabled": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+   "profile_background_tile": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1381740085561933825/I_3B1MSK_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381740085561933825/I_3B1MSK_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/88856085/1623094755",
+   "profile_link_color": "F58EA8",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "has_extended_profile": true,
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": false,
+   "follow_request_sent": false,
+   "notifications": false,
+   "translator_type": "none",
+   "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 37,
+  "favorite_count": 208,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ "is_quote_status": false,
+ "retweet_count": 37,
+ "favorite_count": 0,
+ "favorited": false,
+ "retweeted": false,
+ "lang": "en"
+}
